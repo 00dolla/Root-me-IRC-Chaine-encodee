@@ -12,6 +12,7 @@ Pour commencer cette épreuve, envoyez en message privé !ep2 au bot Candy.
 - La réponse doit être sous la forme :
 !ep2 -rep <reponse>
 
+(ne pas oublier de changer "server_name", "port_server", "bot_name")
 
 == Challange 3 ==
 
@@ -24,3 +25,5 @@ Pour commencer cette troisième épreuve, envoyez en message privé !ep3 au bot 
 - Si le bot ne répond plus, c’est que vous avez été bannis. Pour être débanni, attendez quelques minutes.
 - La réponse doit être sous la forme :
 !ep3 -rep <reponse>
+
+(ne pas oublier de changer "server_name", "channel_name", "bot_name")
