@@ -1,6 +1,6 @@
 # Root-me-IRC-Chaine-encodee
  
-== Challange 2 ==
+====================== Challange 2 ======================
 
 Pour commencer cette épreuve, envoyez en message privé !ep2 au bot Candy.
 
@@ -14,7 +14,7 @@ Pour commencer cette épreuve, envoyez en message privé !ep2 au bot Candy.
 
 (ne pas oublier de changer "server_name", "port_server", "bot_name")
 
-== Challange 3 ==
+====================== Challange 3 ======================
 
 Pour commencer cette troisième épreuve, envoyez en message privé !ep3 au bot Candy.
 
